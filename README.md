@@ -19,7 +19,7 @@ Experience the animation in action here: [Waves Animation Demo](https://www.tono
 
 ## 📸 Screenshot
 
-![Waves Animation](media/waves_animation.png)
+![Waves Animation](https://github.com/tononjacopo/waves/blob/df2294572ac47ce393c26558762faa8e149000ad/media/css-waves.gif)
 
 *Visual representation of the waves animation effect in a webpage setting.*
 
